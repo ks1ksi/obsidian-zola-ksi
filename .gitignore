@@ -166,3 +166,6 @@ backup
 data
 public
 build
+zola/templates/.DS_Store
+zola/.DS_Store
+.DS_Store
